@@ -14,8 +14,12 @@ Patrn is a framework focused sole on layout capabilities for prototyping, buildi
 
 This repo contains a css framework that has been built with a component methodology enabling rapid layout abilities. Included is a style guide template page that outlines each component and how the blocks can be used to build out any style of layout.
 
+------------
+
 #### Version 1.0 - Patrn Sunset (CSS)
 
 [GitHub Repo - Patrn Ocean](https://github.com/davidbanthony/PATRN-sunset)
 
 This repo contains a css framework that has been built with a component methodology enabling rapid layout abilities. Included is a style guide template page that outlines each component and how the blocks can be used to build out any style of layout.
+
+------------
