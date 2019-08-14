@@ -785,7 +785,7 @@ code, .code {
 /*============================================================================*/
 /* Fancybox/Lightbox */
 .fancybox-overlay {
-  background-color: black;
+  background-color: rgba(0, 0, 0, 0.80);
 }
 
 .fancybox-outer {
@@ -876,7 +876,7 @@ code, .code {
 }
 
 .fancybox-image img {
-  max-width: 100%;
+  max-width: 70%;
 }
 /* Fancybox/Lightbox - End */
 /*============================================================================*/
