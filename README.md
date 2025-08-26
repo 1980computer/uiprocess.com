@@ -2,7 +2,7 @@
 
 Patrn is a framework focused sole on layout capabilities for prototyping, building interfaces, or experimentation.
 
-[GitHub Repo](https://github.com/davidbanthony/patrn.design) + [Website Preview](https://patrn.design)
+[GitHub Repo](https://github.com/davidbanthony/patrn.design) + [Website Preview](https://patrn.netlify.app)
 
 ------------
 
