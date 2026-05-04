@@ -1,10 +1,10 @@
-![uiprocess](https://uiprocess.netlify.app/assets/images/uiprocess-angle-1.2.jpg "uiprocess")
+![uiprocess](https://uiprocess.com/assets/images/uiprocess-angle-1.2.jpg "uiprocess")
 
 uiprocess is a framework focused sole on layout capabilities for prototyping, building interfaces, or experimentation.
 
 This repository is a **monorepo**: the marketing site lives at the root; **Ocean**, **Sunset**, and **Tron** are in `uiprocess-ocean/`, `uiprocess-sunset/`, and `uiprocess-tron/`. Ocean and Sunset keep framework sources under each folder’s `uiprocess-code/` directory.
 
-[GitHub Repo](https://github.com/1980computer/uiprocess.com) + [Website Preview](https://uiprocess.netlify.app)
+[GitHub Repo](https://github.com/1980computer/uiprocess.com) + [Website Preview](https://uiprocess.com/)
 
 ------------
 
