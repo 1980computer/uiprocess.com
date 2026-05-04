@@ -1,6 +1,6 @@
 # Framework Tron (Bootstrap)
 
-Bootstrap-based layout examples focused on **grids and structure** only (no full UI kit).
+Framework Tron (Bootstrap) is a Bootstrap-based layout system focused on grid and spacing patterns without full UI chrome.
 
 - **Source in monorepo:** [github.com/1980computer/uiprocess.com/tree/master/uiprocess-tron](https://github.com/1980computer/uiprocess.com/tree/master/uiprocess-tron)
 - **Preview:** [uiprocess-tron.netlify.app](https://uiprocess-tron.netlify.app/)
