@@ -10,8 +10,7 @@ This repository is a **monorepo**: the marketing site lives at the root; **Ocean
 
 #### Framework TUI (Go)
 
-[GitHub Repo](https://github.com/1980computer/uiprocess-tui)
-
+[GitHub Repo](https://github.com/1980computer/uiprocess-tui) + [View](https://uiprocess-tui.netlify.app/)
 Framework TUI (Go) provides prebuilt Bubble Tea layouts and terminal app templates with a layout-first API.
 
 ------------
